@@ -35,6 +35,14 @@ The following models have been implemented in this repository:
 - **Recurrent Neural Networks (RNN)**
 - **Long Short-Term Memory (LSTM) [Work in Progress]**
 
+## To-Do List
+- [ ] Refactor the notebooks for neater code
+- [ ] Add headings and subheadings to the notebooks
+- [ ] Add Support Vector Machine
+- [ ] Add K-Nearest Neighbour
+- [ ] Add CNN (Code is ready; need to port it to notebook format)
+- [ ] Write the derivations for many of the notebooks
+
 ## Why This Repository?
 
 This repository aims to provide a deeper understanding of the mathematical foundations of machine learning algorithms and how they work under the hood. By implementing these models from scratch, you gain insights into their inner workings, which is often abstracted away when using libraries like `scikit-learn`, `TensorFlow`, or `PyTorch`.
