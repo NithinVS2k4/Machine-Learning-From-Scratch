@@ -36,8 +36,8 @@ The following models have been implemented in this repository:
 - **Long Short-Term Memory (LSTM) [Work in Progress]**
 
 ## To-Do List
-- [ ] Refactor the notebooks for neater code
-- [ ] Add headings and subheadings to the notebooks
+- [ ] Refactor the LDA notebook for neater code and add headings
+- [ ] Add description and headings to Simple Perceptron
 - [ ] Add Support Vector Machine
 - [ ] Add K-Nearest Neighbour
 - [ ] Add CNN (Code is ready; need to port it to notebook format)
